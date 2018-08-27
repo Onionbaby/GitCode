@@ -1,3 +1,5 @@
-line 1
-command line 2
-command line 3
+Git is a version control system.
+Git is free software.
+
+Git is a distributed version control system.
+Git is free software.
